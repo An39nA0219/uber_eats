@@ -9,7 +9,8 @@ function App() {
         <p>
           nanndekawarnnnokane
         </p>
-        <h1>できないんだじぇ</h1>
+        <h1>動いてるわ～！！！
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
